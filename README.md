@@ -44,8 +44,8 @@ A full-stack web application for browsing and booking trips, with separate inter
 
 1. Clone the repository
 ```bash
-git clone <repository-url>
-cd travel-website
+git clone https://github.com/RuntimeTerror6969/Exploro-assignment
+cd Exploro-assignment
 ```
 
 2. Backend Setup
